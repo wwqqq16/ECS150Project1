@@ -1,4 +1,4 @@
-# TimeoutExecutor: Enhancing Command Execution and Process Management
+# TimeoutExecutor
 
 TimeoutExecutor is a collection of C programs designed to optimize command execution and manage processes effectively. This suite consists of four programs:
 
