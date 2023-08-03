@@ -25,4 +25,4 @@ By combining the functionalities of these four programs, you can create a compre
 - Verifies file relationships and prevents duplication with the help of `linked.c`.
 - Facilitates precise command execution by locating the full path with `timeoutex.c`, thus avoiding any confusion arising from partial command specifications.
 
-It is a powerful set of tools at your disposal, enabling to enhance command execution and manage processes with utmost efficiency on Unix-like systems.
+It is a set of tools at your disposal, enabling you to enhance command execution and manage processes with utmost efficiency on Unix-like systems.
